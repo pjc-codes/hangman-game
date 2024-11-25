@@ -7,7 +7,12 @@ A very simple stick figure ASCII graphic of the hangman is also included.
 
 
 _______
+
    |
+   
    O
+   
   /|\
+  
   /|\
+  
